@@ -69,9 +69,6 @@ Sudoku-Solver/
 │   ├── test_solver.py
 ```
 
-## License
-This project is open-source and available under the MIT License.
-
 ---
 ### Contributions
 Feel free to submit a pull request if you'd like to improve the solver!
