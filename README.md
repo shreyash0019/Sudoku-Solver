@@ -72,3 +72,4 @@ Sudoku-Solver/
 ---
 ### Contributions
 Feel free to submit a pull request if you'd like to improve the solver!
+
